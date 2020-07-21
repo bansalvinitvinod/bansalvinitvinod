@@ -20,4 +20,5 @@ Connect with me on: 👇
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </br>
- <img src = "https://github-readme-stats.vercel.app/api?username=bansalvinitvinod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</br>
+ <img src = "https://github-readme-stats.vercel.app/api?username=bansalvinitvinod&&show_icons=true&title_color=0041cc&icon_color=0041cc&text_color=ffffff&bg_color=000">
